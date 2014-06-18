@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languaje>
+  <main>
+    <texto>Configuration</texto>
+    <texto>About</texto>
+	<texto>Power Status</texto>
+	<texto>Remaining</texto>
+	<texto>No battery connected</texto>
+	<texto>Charge of</texto>
+	<texto>% available (charging)</texto>
+	<texto>% available (A/C)</texto>
+	<texto>Show</texto>
+	<texto>Exit</texto>
+  </main>
+
+  <about>
+    <texto>About AbeBattery</texto>
+    <texto>Version</texto>
+    <texto>
+License LGPL.
+Icons by http://pixel-mixer.com/
+
+Powered by Abelabs.
+    </texto>
+    <texto>Visit Abelabs.coms</texto>
+    <texto>Release notes</texto>
+    <texto>Accept</texto>
+  </about>
+
+  <notes>
+    <texto>Release notes</texto>
+  </notes>
+
+  <options>
+    <texto>Configuration</texto>
+    <texto>Options</texto>
+    <texto>Languaje</texto>
+    <texto>Select languaje</texto>
+    <texto>General</texto>
+    <texto>Minimize the program in the system tray</texto>
+    <texto>Accept</texto>
+	<texto>Notificacions</texto>
+	<texto>Notify me when the charge is low</texto>
+	<texto>Notify me when the charge is critical</texto>
+    <texto>Duration of the notification:</texto>
+    <texto>Automatically detect the start</texto>
+    <texto>Minimize the program to close the window</texto>
+    <texto>Start with Windows</texto>
+  </options>
+</languaje>

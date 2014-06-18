@@ -1,0 +1,67 @@
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.exe
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.xml
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.pdb
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\AbeBattery.exe
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\AbeBattery.pdb
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\AbeBattery.xml
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\Microsoft.WindowsAPICodePack.dll
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\Microsoft.WindowsAPICodePack.pdb
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.frmAbout.resources
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.frmMain.resources
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.frmNotes.resources
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.frmOptions.resources
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.Resources.resources
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\AbeBattery.exe.manifest
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\AbeBattery.application
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.exe.manifest
+D:\Alberto\Proyectos 2011-08-19 23;47;00\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.application
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\AbeBattery.exe.manifest
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\AbeBattery.application
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\AbeBattery.exe
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\AbeBattery.pdb
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\AbeBattery.xml
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\Microsoft.WindowsAPICodePack.dll
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\bin\Release\Microsoft.WindowsAPICodePack.pdb
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\ResolveAssemblyReference.cache
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.frmAbout.resources
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.frmMain.resources
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.frmNotes.resources
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.frmOptions.resources
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.Resources.resources
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\GenerateResource.read.1.tlog
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\GenerateResource.write.1.tlog
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.exe.manifest
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.application
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.exe
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.xml
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\AbeBattery.pdb
+M:\Proyectos\Project AbeBattery\Windows\source\abebattery\obj\x86\Release\GenerateResource.read.3.tlog
+C:\Users\Alberto\Desktop\source\abebattery\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\source\abebattery\obj\x86\Release\AbeBattery.frmAbout.resources
+C:\Users\Alberto\Desktop\source\abebattery\obj\x86\Release\AbeBattery.frmMain.resources
+C:\Users\Alberto\Desktop\source\abebattery\obj\x86\Release\AbeBattery.frmNotes.resources
+C:\Users\Alberto\Desktop\source\abebattery\obj\x86\Release\AbeBattery.frmOptions.resources
+C:\Users\Alberto\Desktop\source\abebattery\obj\x86\Release\AbeBattery.Resources.resources
+C:\Users\Alberto\Desktop\source\abebattery\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Alberto\Desktop\source\abebattery\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Alberto\Desktop\source\abebattery\bin\Release\AbeBattery.exe.manifest
+C:\Users\Alberto\Desktop\source\abebattery\bin\Release\AbeBattery.application
+C:\Users\Alberto\Desktop\source\abebattery\bin\Release\AbeBattery.exe
+C:\Users\Alberto\Desktop\source\abebattery\bin\Release\AbeBattery.pdb
+C:\Users\Alberto\Desktop\source\abebattery\bin\Release\AbeBattery.xml
+C:\Users\Alberto\Desktop\source\abebattery\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\Alberto\Desktop\source\abebattery\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\Alberto\Desktop\source\abebattery\bin\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Users\Alberto\Desktop\source\abebattery\obj\x86\Release\AbeBattery.TrustInfo.xml
+C:\Users\Alberto\Desktop\source\abebattery\obj\x86\Release\AbeBattery.exe.manifest
+C:\Users\Alberto\Desktop\source\abebattery\obj\x86\Release\AbeBattery.application
+C:\Users\Alberto\Desktop\source\abebattery\obj\x86\Release\AbeBattery.exe
+C:\Users\Alberto\Desktop\source\abebattery\obj\x86\Release\AbeBattery.xml
+C:\Users\Alberto\Desktop\source\abebattery\obj\x86\Release\AbeBattery.pdb

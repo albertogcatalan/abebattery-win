@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languaje>
+  <main>
+	<texto>Configuración</texto>
+	<texto>Acerca de</texto>
+	<texto>Estado de energía</texto>
+    <texto>Quedan</texto>
+	<texto>No hay ninguna batería conectada</texto>
+	<texto>Carga del</texto>
+	<texto>% disponible (cargando)</texto>
+	<texto>% disponible (A/C)</texto>
+	<texto>Mostrar</texto>
+	<texto>Salir</texto>
+  </main>
+
+  <about>
+    <texto>Acerca de AbeBattery</texto>
+    <texto>Versión</texto>
+    <texto>
+Licencia LGPL.
+Iconos por http://pixel-mixer.com/
+
+Desarrollado por Abelabs.
+    </texto>
+    <texto>Visita Abelabs.com</texto>
+    <texto>Notas de la versión</texto>
+    <texto>Aceptar</texto>
+  </about>
+
+  <notes>
+    <texto>Notas de la versión</texto>
+  </notes>
+  
+  <options>
+    <texto>Configuración</texto>
+    <texto>Opciones</texto>
+    <texto>Idioma</texto>
+    <texto>Seleccione el lenguaje</texto>
+    <texto>General</texto>
+    <texto>Minimizar el programa en la bandeja del sistema</texto>
+    <texto>Aceptar</texto>
+	<texto>Notificaciones</texto>
+	<texto>Notificarme cuando la carga sea baja</texto>
+	<texto>Notificarme cuando la carga sea crítica</texto>
+    <texto>Duración de la notificación:</texto>
+    <texto>Detectar automáticamente el arrancar</texto>
+    <texto>Minimizar el programa al cerrar la ventana</texto>
+    <texto>Iniciar con Windows</texto>
+  </options>
+</languaje>
